@@ -2,7 +2,7 @@
 
 This repo contains the analysis and final report for a semester-long project examining 30-day hospital readmission rates at United Health Services (UHS) using Epic EHR data. The goal was to identify key drivers of readmission and evaluate the effectiveness of three care transition interventions across CMS-tracked conditions.
 
-Here are the different notebooks:
+Here is the notebook:
 
 - [Hand Written EDA](./Hand%20Written%20EDA.ipynb): Exploratory data analysis, feature engineering, and primary modeling pipeline
 
