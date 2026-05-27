@@ -5,7 +5,6 @@ This repo contains the analysis and final report for a semester-long project exa
 Here are the different notebooks:
 
 - [Hand Written EDA](./Hand%20Written%20EDA.ipynb): Exploratory data analysis, feature engineering, and primary modeling pipeline
-- [Extra Models](./Hand%20Written%20EDA%20-%20Just%20extra%20models%20I%20had%20run%20that%20I%20didn't%20add%20into%20the%20other%20doc.ipynb): Additional models and experiments run during development
 
 The final written report summarizing methodology, findings, and recommendations can be viewed here:
 
@@ -47,4 +46,4 @@ Raw data files are omitted from this repository as they contain de-identified pa
 
 ## Authors
 
-Sophia Huang · Binghamton University MS Data Analytics · Spring 2026
+Sophia Huang · Kendra Pinckney · Sophia Huang · Christopher Peraza · Daniil Pavelko · Binghamton University MS Data Analytics · Spring 2026
